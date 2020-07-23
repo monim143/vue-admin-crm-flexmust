@@ -411,7 +411,7 @@
 
 
                                     <b-form-group label="Logo" label-for="example-file-input-custom">
-                                        <img class="logo" src="img/logo.png" alt="Logo">
+                                        <img class="logo siteLogo" src="img/logo.png" alt="Logo">
                                         <b-form-file id="example-file-input-custom"></b-form-file>
                                     </b-form-group>
 

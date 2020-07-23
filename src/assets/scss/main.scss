@@ -115,3 +115,12 @@
 
 // User styles (your own styles/overrides)
 @import 'custom/main';
+
+.siteLogo {
+  background: #373e48;
+}
+
+.tab-pane.active {
+  transition: all 1.0s;
+  //transform: translateY(1rem);
+}
