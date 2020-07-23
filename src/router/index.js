@@ -157,8 +157,8 @@ const routeModule = (path, component, menu = []) => {
 let childList = ['add', 'list', 'details'];
 // Router Configuration
 export default new Router({
-    mode: 'history',
-    hash: false,
+    //mode: 'history',
+    //hash: false,
     linkActiveClass: 'active',
     linkExactActiveClass: '',
     scrollBehavior() {
